@@ -1,0 +1,6 @@
+{
+  "stack": "node20",
+  "build": {
+    "node_version": "20.19.0"
+  }
+}
